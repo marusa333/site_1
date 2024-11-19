@@ -1,0 +1,184 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.second_header li {
+    list-style: none;
+}
+.first_header {
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0px;
+}
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.header_sections {
+    display: flex;
+    gap: 20px;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+}
+nav ul li {
+    margin-left: 20px;
+}
+.logo span {
+    color: orange;
+}
+.second_header {
+    background-color: #004780;
+    color: white;
+}
+nav ul li  a {
+    color: white;
+    display: flex;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.header_list a:hover {
+    color: orange;
+}
+.second_header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    padding: 20px 0px;
+}
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.main_page_1 {
+    display: flex;
+    align-items: center;
+    width: 80%;
+    padding-top: 30px;
+}
+.first_image {
+    width: 1000px;
+    margin-top: 30px;
+}
+.first_main_page {
+    display: flex;
+    flex-direction: column;
+    width: 480px;
+    gap: 50px;
+}
+.first_main_page p{
+    color:#333333;
+    font-size: 22px;
+}
+.first_main_page h1 {
+    font-size: 35px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.first_main_page a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    background-color: orange;
+    border-color: orange;
+    color: #125061;
+    width: 190px;
+    padding: 20px 0px;
+    height: 35px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.main_info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 500px;
+    margin-top: 30px;
+}
+.info_num_one {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 30px;
+}
+.about_us {
+    color: orange;
+    font-size: 20px;
+}
+.our_company {
+    font-size: 40px;
+    
+}
+.main_page_2 {
+    width: 80%;
+    padding-top: 60px;
+}
+.our {
+    max-width: 100px;
+    border-bottom: solid black;
+    padding-bottom: 10px;
+}
+.info_num_one p {
+    margin-top: 50px;
+    font-size: 17px;
+    border-bottom: solid black 1px;
+    padding-bottom: 40px;
+}
+.second_main_page {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.image_screen {
+    width: 600px;
+}
+.fiftyyears {
+    width: 100px;
+}
+.info_num_two {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 70px;
+}
+.second_header_cont {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.icons {
+    display: flex; 
+    gap: 20px;
+    color: #004780;
+}
+.first_header section img {
+    width: 15px;
+}
+.first_header section i{
+    font-size: 15x;
+    color: white;
+    background-color: orange;
+    padding: 5px;
+    border-radius: 50%;
+}
+.first_header section {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+
+
